@@ -1,1 +1,1 @@
-Check out my Drum Kit project [here](https://faisal786111.github.io/Drum-Kit/).
+[Check out my Drum Kit project](https://faisal786111.github.io/Drum-Kit/){:target="_blank"}
